@@ -1,6 +1,12 @@
 body{
     font-family: 'Amiri', sans-serif;
 }
+.foto-principal{
+    width: 60%;
+    height: 40%;
+    display: block;
+    margin: auto;
+}
 .carousel-indicators li{
     width: 11px;
     height: 11px;
