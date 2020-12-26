@@ -1,11 +1,18 @@
 body{
     font-family: 'Amiri', sans-serif;
 }
+.logo{
+    background-color:lightskyblue;
+    border-radius: 70px;
+}
 .foto-principal{
     width: 60%;
     height: 40%;
     display: block;
     margin: auto;
+}
+h1,h2{
+    font-family: 'Lobster' , cursive;
 }
 .carousel-indicators li{
     width: 11px;
